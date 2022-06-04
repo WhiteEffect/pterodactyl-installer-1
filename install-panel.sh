@@ -76,7 +76,7 @@ ASSUME_SSL=false
 CONFIGURE_LETSENCRYPT=false
 
 # download URLs
-PANEL_DL_URL="https://github.com/pterodactyl/panel/releases/latest/download/panel.tar.gz"
+PANEL_DL_URL="https://github.com/pterodactyl/panel/releases/download/v1.7.0/panel.tar.gz"
 CONFIGS_URL="https://raw.githubusercontent.com/vilhelmprytz/pterodactyl-installer/master/configs"
 
 # apt sources path
